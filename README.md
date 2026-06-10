@@ -5,9 +5,6 @@
 Relationships
 
 
-User ──────── OneToOne ──────── Doctor/Patient
-
-
 Doctor ─────── OneToMany ─────── Appointment
 
 
